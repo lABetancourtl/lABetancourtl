@@ -68,13 +68,13 @@
 
 <div align="center">
 
-  <a href="https://www.instagram.com/lbetancourtl" target="_blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/lbetancourtl" target="_blank" >
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/573206091952" target="_blank" style="text-decoration:none;">
+  <a href="https://wa.me/573206091952" target="_blank" >
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
