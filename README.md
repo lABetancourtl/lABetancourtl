@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <a href="https://www.instagram.com/lbetancourtl" target="blank">
+  <a href="https://www.instagram.com/lbetancourtl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/573206091952" target="_blank">
