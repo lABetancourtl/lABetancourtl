@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">Cuando estoy AFK</h3>
+<h3 align="center">When I'm AFK:</h3>
 
 <div align="center">
 
