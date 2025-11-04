@@ -68,23 +68,19 @@
 <h3 align="center">Find me on</h3>
 
 <div align="center">
-  <!-- Instagram -->
+
   <a href="https://www.instagram.com/lbetancourtl" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <img width="15" />
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/573206091958" target="_blank">
-    ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+  <a href="https://wa.me/573206091952" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <img width="15" />
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
 </div>
+
 
 
 ###
