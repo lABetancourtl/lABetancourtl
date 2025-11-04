@@ -80,7 +80,7 @@
 
 
    <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
-    <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>
 
 </div>
