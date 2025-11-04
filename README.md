@@ -3,11 +3,11 @@
 
 ###
 
-<h1 align="center">¡Hola! Soy Anderson Betancourt (AB)</h1>
+<h1 align="center">¡Hi I'm Anderson Betancourt (AB)</h1>
 
 ###
 
-<p align="left">Soy, estudiante de Ingeniería en Sistemas y Computacion apasionado por el desarrollo web y la arquitectura de software. Me gusta crear aplicaciones funcionales y bien estructuradas, aplicando buenas prácticas de programación y explorando nuevas tecnologías constantemente.</p>
+<p align="left">I’m a Systems and Computer Engineering student passionate about web development and software architecture. I enjoy building functional, well-structured applications by applying clean code principles and best programming practices. I’m always eager to learn and explore new technologies to improve my craft.</p>
 
 ###
 
