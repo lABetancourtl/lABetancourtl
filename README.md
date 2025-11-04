@@ -21,9 +21,6 @@
 
 </div>
 
-
-
-
 ###
 
 <h3 align="center">My Tech Stack</h3>
@@ -61,6 +58,12 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
+
+###
+
+<h3 align="center">Find me on</h3>
 
 ###
 
