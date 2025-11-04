@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Cuando estoy AFK</h2>
+<h3 align="center">Cuando estoy AFK</h3>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">My Tech Stack</h2>
+<h3 align="center">My Tech Stack</h3>
 
 ###
 
