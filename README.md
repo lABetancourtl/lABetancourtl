@@ -69,10 +69,10 @@
 <div align="center">
 
   <a href="https://www.instagram.com/lbetancourtl" target="_blank" >
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" alt="Instagram"/>
   </a>
   <a href="https://wa.me/573206091952" target="_blank" >
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="20" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
