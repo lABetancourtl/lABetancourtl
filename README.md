@@ -1,5 +1,1 @@
-<div align="center">
-  <img src="https://open.spotify.com/playlist/7ahMiDy8b3tID9nb79nhbM?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
-###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12178893401&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
