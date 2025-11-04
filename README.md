@@ -77,6 +77,9 @@
   <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
   </a>
+<a href="https://www.instagram.com/tu_usuario" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40" alt="Instagram"/>
+  </a>
 
 
 </div>
