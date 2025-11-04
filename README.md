@@ -76,7 +76,7 @@
 
   <!-- WhatsApp -->
   <a href="https://wa.me/573206091958" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp logo" />
+    ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   </a>
   <img width="15" />
 
