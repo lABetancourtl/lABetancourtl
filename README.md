@@ -66,27 +66,17 @@
 
 <h3 align="center">Find me on</h3>
 
-<div align="center">
-
-  <a href="https://www.instagram.com/lbetancourtl" target="_blank" >
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" alt="Instagram"/>
+<p align="center">
+  <a href="https://www.instagram.com/lbetancourtl" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" />
   </a>
-  <a href="https://wa.me/573206091952" target="_blank" >
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="20" alt="WhatsApp"/>
+  <a href="https://wa.me/573206091952" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
-   <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" height="30" />
   </a>
-
-
-</div>
-
-
-<style>
-a {
-  text-decoration: none !important;
-}
-</style>
+</p>
 
 
 
