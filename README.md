@@ -1,3 +1,22 @@
+###
+
+<h1 align="center">¡Hola! Soy Anderson Betancourt (AB)</h1>
+
+###
+
+<p align="left">Soy, estudiante de Ingeniería en Sistemas y Computacion apasionado por el desarrollo web y la arquitectura de software. Me gusta crear aplicaciones funcionales y bien estructuradas, aplicando buenas prácticas de programación y explorando nuevas tecnologías constantemente.</p>
+
+###
+
+<h3 align="center">Cuando estoy AFK</h3>
+
+###
+
+<p align="left">![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</p>
+
+###
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12178893401&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12178893401&redirect=true)
 
 
