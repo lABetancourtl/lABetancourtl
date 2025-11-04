@@ -72,10 +72,10 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
   </a>
   <a href="https://wa.me/573206091952" target="_blank" >
-    <img src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>  
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" >
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
   </a>
 
 
