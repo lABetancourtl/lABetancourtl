@@ -69,7 +69,7 @@
 <div align="center">
 
   <a href="https://www.instagram.com/lbetancourtl" target="_blank" >
-    <img src="[https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram](https://cdn.simpleicons.org/instagram/E4405F)" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram](https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram"/>
   </a>
   <a href="https://wa.me/573206091952" target="_blank" >
     <img src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>  
