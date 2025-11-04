@@ -65,11 +65,27 @@
 
 <h3 align="center">Find me on</h3>
 
+<h3 align="center">Find me on</h3>
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/lbetancourtl" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo" />
+  </a>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/573206091958" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp logo" />
+  </a>
+  <img width="15" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
+  </a>
 </div>
+
 
 ###
 
