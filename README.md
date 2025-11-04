@@ -5,8 +5,9 @@
 
 <h1 align="center">¡Hi I'm Anderson Betancourt (AB)</h1>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%C2%A1Hi+I'm+Anderson+Betancourt+(AB))](https://git.io/typing-svg)
-
+</div>
 ###
 
 <p align="left">I'm a Systems and Computer Engineering student passionate about web development and software architecture. I enjoy building functional, well-structured applications by applying clean code principles and best programming practices. I’m always eager to learn and explore new technologies to improve my craft.</p>
