@@ -4,7 +4,7 @@
 ###
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{lAbetancourtl}?pet-id=1" width="1000" height="120"/>
 </a>
 
 <h1 align="center">¡Hi I'm Anderson Betancourt (AB)</h1>
