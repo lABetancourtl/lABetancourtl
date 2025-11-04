@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I’m a Systems and Computer Engineering student passionate about web development and software architecture. I enjoy building functional, well-structured applications by applying clean code principles and best programming practices. I’m always eager to learn and explore new technologies to improve my craft.</p>
+<p align="left">I'm a Systems and Computer Engineering student passionate about web development and software architecture. I enjoy building functional, well-structured applications by applying clean code principles and best programming practices. I’m always eager to learn and explore new technologies to improve my craft.</p>
 
 ###
 
