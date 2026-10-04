@@ -1,95 +1,46 @@
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12178893401&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12178893401&redirect=true)
-
-###
-<p align="center" style="margin-bottom: -10px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%C2%A1Hi+I'm+Anderson+Betancourt+;Developer" alt="Typing SVG" />
-  </a>
+<h1 align="center">Anderson Betancourt Arenas</h1>
+<p align="center">
+  <b>Backend & Full Stack Developer</b><br/>
+  Java · Spring Boot · Flutter · Angular · PostgreSQL
 </p>
 
+## About me
 
-###
+Systems and Computer Engineering student at Universidad del Quindío (graduating 2027), focused on backend and full stack development. I build REST APIs and web/mobile applications with an emphasis on clean architecture and maintainable code.
 
-<p align="left">I'm a Systems and Computer Engineering student passionate about web development and software architecture. I enjoy building functional, well-structured applications by applying clean code principles and best programming practices. I’m always eager to learn and explore new technologies to improve my craft.</p>
+- 🔭 Currently building: an e-commerce platform for tech products
+- 🌱 Learning: C# and .NET 8
+- 🔐 Interested in: cybersecurity
 
-###
+## Tech Stack
 
-<h3 align="center">When I'm AFK:</h3>
+**Backend**  
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" />
 
-<div align="center">
+**Frontend & Mobile**  
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,flutter,dart" />
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+**Databases**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 
-</div>
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,linux,docker" />
 
-###
+## Featured Projects
 
-<h3 align="center">My Tech Stack</h3>
+| Project | Description | Stack |
+|---|---|---|
+| [Project name](link) | One line explaining what it does | Spring Boot, PostgreSQL |
+| [Project name](link) | One line explaining what it does | Flutter, Firebase |
 
-###
+## Contact
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
 
-###
-
-###
-
-
-<h3 align="center">Find me on</h3> 
-
-<div align="center"> 
-  <a href="https://www.instagram.com/lbetancourtl" target="_blank" > 
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" alt="Instagram"/> 
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/anderson-betancourt-arenas-30ab03360" > 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn"/> 
-  </a> 
-  
-</div>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{lAbetancourtl}?pet-id=1" width="1000" height="120"/>
-</a>
-
-###
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lABetancourtl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lABetancourtl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lABetancourtl&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lABetancourtl&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="Top languages" />
 </div>
-
-###
