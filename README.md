@@ -17,8 +17,8 @@ Interested in **backend development** and **cybersecurity**.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Project name](link) | One line explaining what it does | Spring Boot, PostgreSQL |
-| [Project name](link) | One line explaining what it does | Flutter, Firebase |
+| **Raffle Platform** · [Backend](https://github.com/lABetancourtl/raffle_back) · [Frontend](https://github.com/lABetancourtl/raffle_front) | Online raffle platform with JWT authentication and Wompi payment gateway integration | Spring Boot, Angular, Docker, Firebase |
+| **[Warehouse App](https://github.com/lABetancourtl/app_bodega)** | Mobile app for managing a beverage distributor | Flutter, Firebase |
 
 ### Contact
 
